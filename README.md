@@ -1,0 +1,2 @@
+# Machine-Learning-Project
+The prediction of survival on Titanic was performed using Logistic Regression and Random Forest Classifier. The machine learning models such as random forest classifier, logistic regression performed satisfactorily reaching at least 80% accuracy for prediction. There are several techniques of forecasting and these techniques provide forecasting models of different accuracy. It is concluded that random forest model achieves 83% accuracy and logistic regression achieves 81% for classification than the other models.
